@@ -28,6 +28,7 @@ can define multiple cough syrup stealing locations and edit the anims and text i
 
 editing of all the targetboxes for these stealing locations can also be edited through the config. 
 
+mudcrab discord: https://discord.gg/ktzjBM2MkZ
 
 
 
