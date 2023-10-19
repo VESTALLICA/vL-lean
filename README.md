@@ -16,7 +16,7 @@ if there is no lean bottle then it will look to mix a lean cup with jolly ranche
 
 additionally, a player can mix lean using the cough syrup bottle itself. 
 
-when using the cough syrup, it will look for: a styrofoam cup, a sprite bottle, and jolly ranchers. if all player has all materials then a lean cup will be made.
+when using the cough syrup, it will look for: a styrofoam cup, a sprite bottle, and jolly ranchers. if player has all materials then a lean cup will be made.
 
 if no sytrofoam cup, then a lean bottle will be made. if the player has none, then no lean will be made.
 
