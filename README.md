@@ -18,7 +18,7 @@ additionally, a player can mix lean using the cough syrup bottle itself.
 
 when using the cough syrup, it will look for: a styrofoam cup, a sprite bottle, and jolly ranchers. if player has all materials then a lean cup will be made.
 
-if no sytrofoam cup, then a lean bottle will be made. if the player has none, then no lean will be made.
+if no sytrofoam cup, then a lean bottle will be made. if the player has insufficient materials, then no lean will be made.
 
 players can get high and recieve a defined thirst value in the config from the lean and sprite. 
 
