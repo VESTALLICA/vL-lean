@@ -3,10 +3,10 @@ game 'gta5'
 
 lua54 'yes'
 
-author 'MUDCRAB'
+author 'VESTA'
 description 'Lean Script'
 discord 'https://discord.gg/ktzjBM2MkZ'
-scriptname 'mc-lean'
+scriptname 'vL-lean'
 
 
 shared_script 'config.lua'
