@@ -33,6 +33,22 @@ can define multiple cough syrup stealing locations.edit the anims and text in th
 editing of all the targetboxes for these stealing locations can also be edited through the config. 
 
 
+qbcore shared items:
+
+['coughsyrup'] = {['name'] = 'coughsyrup', ['label'] = 'Cough Syrup', ['weight'] = 0,  ['type'] = 'item', ['image'] = 'coughsyrup.png', ['unique'] = false, ['useable'] = true, ['shouldClose'] = true, ['combinable'] = false, ['description'] = 'A Styrofoam cup'},
+
+['sprite'] = {['name'] = 'sprite', ['label'] = 'Sprite', ['weight'] = 0,  ['type'] = 'item', ['image'] = 'sprite.png', ['unique'] = false, ['useable'] = true, ['shouldClose'] = true, ['combinable'] = false,  ['description'] = 'Sprite'},
+
+['jollyrancherbag'] = {['name'] = 'jollyrancherbag', ['label'] = 'Jolly Rancher Bag', ['weight'] = 0,  ['type'] = 'item', ['image'] = 'jollyrancherbag.png', ['unique'] = false, ['useable'] = true, ['shouldClose'] = true, ['combinable'] = false, ['description'] = 'Bag full of Jolly Ranchers'},
+
+['jollyranchers'] = {['name'] = 'jollyranchers', ['label'] = 'Jolly Ranchers', ['weight'] = 0,  ['type'] = 'item', ['image'] = 'jollyranchers.png', ['unique'] = false, ['useable'] = true, ['shouldClose'] = true, ['combinable'] = false, ['description'] = 'Some Jolly Ranchers'},
+
+['foamcup'] = {['name'] = 'foamcup', ['label'] = 'Styrofoam Cup', ['weight'] = 0,  ['type'] = 'item', ['image'] = 'foamcup.png', ['unique'] = false, ['useable'] = true, ['shouldClose'] = true, ['combinable'] = false, ['description'] = 'A Styrofoam cup'},
+
+['leancup'] = {['name'] = 'leancup', ['label'] = 'Lean Cup', ['weight'] = 0,  ['type'] = 'item', ['image'] = 'leancup.png', ['unique'] = false, ['useable'] = true, ['shouldClose'] = true, ['combinable'] = false,  ['description'] = 'Purple Drank'},
+
+['leanbottle'] = {['name'] = 'leanbottle', ['label'] = 'Lean Bottle', ['weight'] = 0,  ['type'] = 'item', ['image'] = 'leanbottle.png', ['unique'] = false, ['useable'] = true, ['shouldClose'] = true, ['combinable'] = false,  ['description'] = 'Purple Drank'},
+
 
 
 
