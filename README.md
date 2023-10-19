@@ -1,6 +1,6 @@
 # mc-lean
 
-support discord: https://discord.gg/ktzjBM2MkZ
+support and dev discord: https://discord.gg/ktzjBM2MkZ
 
 QBCore Lean Script
 
