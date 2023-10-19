@@ -1,4 +1,4 @@
-# mc-lean
+# vL-lean
 
 support and dev discord: https://discord.gg/ktzjBM2MkZ
 
