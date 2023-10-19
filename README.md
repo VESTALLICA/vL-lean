@@ -33,7 +33,7 @@ can define multiple cough syrup stealing locations.edit the anims and text in th
 editing of all the targetboxes for these stealing locations can also be edited through the config. 
 
 
-qbcore shared items:
+qbcore shared items: ( copy n paste )
 
 ['coughsyrup'] = {['name'] = 'coughsyrup', ['label'] = 'Cough Syrup', ['weight'] = 0,  ['type'] = 'item', ['image'] = 'coughsyrup.png', ['unique'] = false, ['useable'] = true, ['shouldClose'] = true, ['combinable'] = false, ['description'] = 'A Styrofoam cup'},
 
