@@ -1,5 +1,7 @@
 # vL-lean
 
+must have https://github.com/kac5a/k5_skillcheck for this resource to work
+
 support and dev discord: https://discord.gg/ktzjBM2MkZ
 
 QBCore Lean Script
