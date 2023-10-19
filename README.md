@@ -1,5 +1,7 @@
 # mc-lean
 
+support discord: https://discord.gg/ktzjBM2MkZ
+
 QBCore Lean Script
 
 can drink and get high off the lean. 
@@ -28,7 +30,7 @@ can define multiple cough syrup stealing locations.edit the anims and text in th
 
 editing of all the targetboxes for these stealing locations can also be edited through the config. 
 
-mudcrab discord: https://discord.gg/ktzjBM2MkZ
+
 
 
 
