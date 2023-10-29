@@ -2,7 +2,7 @@
 
 must have https://github.com/kac5a/k5_skillcheck for this resource to work
 
-support and dev discord: https://discord.gg/ktzjBM2MkZ
+more resources and support in the vL discord: https://discord.gg/GC6tWQAK8u
 
 QBCore Lean Script
 
