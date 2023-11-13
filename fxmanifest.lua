@@ -12,3 +12,10 @@ scriptname 'vL-lean'
 shared_script 'config.lua'
 client_script 'client/*.lua' 
 server_script 'server/*.lua' 
+
+dependencies {
+    'qb-core',
+    'qb-target',
+    'k5_skillcheck'
+}
+
